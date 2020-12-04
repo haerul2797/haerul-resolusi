@@ -1,0 +1,8 @@
+Haerul Resolusi
+- Latihan HTML
+- Latihan PHP 
+- Latihan Javascript
+- Latihan CSS
+- Latihan Laravel
+- Latihan Codeigniter
+- Membuat Project Mandiri
