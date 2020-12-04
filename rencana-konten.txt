@@ -1,4 +1,10 @@
 1. Membuat Project
+- HTML
+- PHP
+- Javascript
+- CSS
+- Laravel
+- Codeigniter
 2. Menganalisa Project
 3. Menjual Project
 4. Promosi Project
