@@ -1,4 +1,6 @@
 1. Membuat Project
 2. Menganalisa Project
+- Menganalisa source code
+- debugging source code
 3. Menjual Project
 4. Promosi Project
