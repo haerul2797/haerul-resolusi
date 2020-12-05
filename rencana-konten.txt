@@ -5,8 +5,12 @@
 - CSS
 - Laravel
 - Codeigniter
+- Pyhton
+- Kotlin
 2. Menganalisa Project
 - Menganalisa source code
 - debugging source code
 3. Menjual Project
+- Aplikasi Website
+- Aplikasi Android
 4. Promosi Project
